@@ -18,5 +18,11 @@ interface MyInterface
 
 				};
 				System.out.println(myInterface.display(3,2));
+				System.out.println(myInterface.display(3,1));
+				System.out.println(myInterface.display(3,5));
+				System.out.println(myInterface.display(4,2));
+				System.out.println(myInterface.display(8,6));
+				System.out.println(myInterface.display(56,1423));
+
 			}
 			}
